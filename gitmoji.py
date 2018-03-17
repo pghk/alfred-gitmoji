@@ -37,7 +37,7 @@ def main(wf):
             valid=True,
             icon=fetch_icon(wf, emoji['emoji']),
             match=emoji['name'] + ' ' + emoji['description'],
-            arg=emoji['code'],
+            arg=emoji['emoji'],
             copytext=emoji['code'],
             largetext=emoji['code']
         )
