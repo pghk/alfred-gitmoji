@@ -106,7 +106,7 @@ venv.bak/
 
 .DS_Store
 
-workflow/
+workflow/.alfredversionchecked
 .idea/
 Alfred_Workflow-*
 *.bak
